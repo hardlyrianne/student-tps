@@ -17,4 +17,4 @@ Student-TPS (Task and Performance System) is a simple project designed to help m
 ## 🧩 Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johnvincentmarzan/student-tps.git
+   git clone https://github.com/hardlyrianne/student-tps.git
