@@ -55,7 +55,11 @@ git clone https://github.com/hardlyrianne/student-tps.git
 
 
 
-👥 Contributors Developer: Hardly Laranang Student ID: 221-0204-2 Course: BS INFO TECH Institution: DMMMSU Contact: hardlylaranang35@gmail.com 📄 License This project is developed as part of an academic requirement for [Course Name/Number]. Academic Use License This project is created for educational purposes May be used as reference material for learning Laravel and web development Not licensed for commercial use Free to modify and learn from Copyright © 2025 Hardly Laranang. All rights reserved. 
+👥 Contributors Developer: Hardly Laranang Student ID: 221-0204-2 Course: BS INFO TECH Institution: DMMMSU Contact: hardlylaranang35@gmail.com 
+
+
+
+📄 License This project is developed as part of an academic requirement for [Course Name/Number]. Academic Use License This project is created for educational purposes May be used as reference material for learning Laravel and web development Not licensed for commercial use Free to modify and learn from Copyright © 2025 Hardly Laranang. All rights reserved. 
 
 
 
