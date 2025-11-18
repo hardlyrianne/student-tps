@@ -5,7 +5,7 @@
 🛠️ Installation InstructionsSelf-contained in the original document, not provided here as per the simplified format.
 ▶️ UsageThe system is designed to manage the entire academic lifecycle:Student Creation: Add new student records.Course Catalog: Create and manage all available courses.Enrollment: Link students to courses with an enrollment date.Grading/Tracking: Update enrollment records to record grades and change status (e.g., to 'Completed').Data Management: Use the CRUD operations to maintain data integrity across students, courses, and enrollments.
 📸 Screenshots / Code Snippet
-System Screenshot:Example Code Snippet (Implicit Eloquent Logic):PHP// Example Eloquent relationship definition in the Student Model
+// Example Eloquent relationship definition in the Student Model
 public function enrollments()
 {
     return $this->hasMany(Enrollment::class);
@@ -16,4 +16,7 @@ public function getFullNameAttribute()
 {
     return "{$this->first_name} {$this->last_name}";
 }
-👥 ContributorsNameRoleContact/AffiliationHardly LaranangDeveloperDMMMSU (BS Info Tech)John Vincent MarzanPartner/Team Member-📄 LicenseThis project is developed for academic and educational purposes (Course: BS Info Tech, Institution: DMMMSU). It may be used as reference material for learning Laravel and web development, but is not licensed for commercial use.
+
+👥 ContributorsNameRoleContact/AffiliationHardly LaranangDeveloperDMMMSU (BS Info Tech)John Vincent MarzanPartner/Team Member-
+
+📄 LicenseThis project is developed for academic and educational purposes (Course: BS Info Tech, Institution: DMMMSU). It may be used as reference material for learning Laravel and web development, but is not licensed for commercial use.
