@@ -82,16 +82,13 @@ Institution: DMMMSU
 Contact: hardlylaranang35@gmail.com
 Partner/Team Member: John Vincent Marzan
 
-📄 License
-This project is developed as part of an academic requirement for [Course Name/Number].
-
 Academic Use License
 
 This project is created for educational purposes
 May be used as reference material for learning Laravel and web development
 Not licensed for commercial use
 Free to modify and learn from
-Copyright © 2025 [Your Name]. All rights reserved.
+Copyright © 2025 Hardly Laranang. All rights reserved.
 
 🙏 Acknowledgments
 Laravel Framework - For providing an excellent PHP framework
