@@ -13,7 +13,7 @@ public function enrollments()
 
 // Example Accessor for Automatic Full Name
 public function getFullNameAttribute()
-{
+{s
     return "{$this->first_name} {$this->last_name}";
 }
 
